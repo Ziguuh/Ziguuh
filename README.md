@@ -1,6 +1,8 @@
-Olá! Eu sou o IGOR DELEON 🖐️ 👋
+Olá! Eu sou o IGOR DELEON 🖐️ 👋 🌈 🤓
 
-Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Cotemig. (3/5)
+Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Cotemig. (4/5)
+
+Estágiario em visão computacional (Machine Learning)
 
 
 [![Linkein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
