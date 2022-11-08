@@ -24,8 +24,7 @@
 <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_64x64_emoji_transparent.png?api=v2" width="40" height="40"/>
 <img src="https://www.sublimehq.com/images/sublime_text.png" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" width="60" height="40"/>
-<img src="https://seeklogo.com/images/D/databricks-logo-2F2F1E37DB-seeklogo.com.png" width="40" height="40"/>
+
 
 
 ## Contacts:
