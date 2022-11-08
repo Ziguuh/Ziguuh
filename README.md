@@ -4,7 +4,7 @@
 
 🌱 Computer Vision intern (Machine Learning)
 
-
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 
 
 ## Tools and Technologies
